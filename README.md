@@ -1,37 +1,5 @@
 # Numerical-Methods-Model-Training
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-
-        table, th, td {
-            border: 1px solid black;
-        }
-
-        th, td {
-            padding: 8px 12px;
-            text-align: left;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-
-        .alert {
-            padding: 10px;
-            background-color: #f9edcc;
-            color: black;
-            border: 1px solid #f0c36d;
-        }
-    </style>
-</head>
-<body>
-
 <h2>Model Performance:</h2>
 
 <table>
